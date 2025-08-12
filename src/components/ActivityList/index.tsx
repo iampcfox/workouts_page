@@ -279,7 +279,6 @@ const ActivityList: React.FC = () => {
 
   const navigate = useNavigate();
 
-
   const toggleInterval = (newInterval: IntervalType): void => {
     setInterval(newInterval);
   };
