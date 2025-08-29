@@ -57,9 +57,8 @@ const titleForShow = (run: Activity): string => {
   if (run.name) {
     name = run.name;
   }
-  return `${name} ${date} ${distance} KM ${
-    !run.summary_polyline ? '(No map data for this workout)' : ''
-  }`;
+  return `${name} ${date} ${distance} KM ${!run.summary_polyline ? '(No map data for this workout)' : ''
+    }`;
 };
 
 const formatPace = (d: number): string => {
@@ -419,7 +418,7 @@ const getBoundsForGeoData = (
   }).fitBounds(cornersLongLat, { padding: 200 });
   let { longitude, latitude, zoom } = viewState;
   if (features.length > 1) {
-    zoom = 11.5;
+    zoom = 14.5;
   }
   return { longitude, latitude, zoom };
 };

@@ -46,6 +46,14 @@ export default defineConfig({
   define: {
     'import.meta.env.VERCEL': JSON.stringify(process.env.VERCEL),
   },
+  server: {
+    port: 55173,
+    open: true,
+    host: '0.0.0.0',
+    allowedHosts: true,
+    cors: true,
+    hmr: true,
+  },
   build: {
     manifest: true,
     outDir: './dist', // for user easy to use, vercel use default dir -> dist

@@ -18,7 +18,7 @@
 
   .runTable th:first-child,
   .runTable td:first-child {
-    min-width: 60px;
+    min-width: 100px;
   }
 
   .runTable th:last-child,
@@ -82,7 +82,7 @@
   }
 
   &:hover {
-    background-color: lighten(var(--color-run-row-hover-background), 3%);
+    background-color: var(--color-run-row-hover-background);
   }
 }
 

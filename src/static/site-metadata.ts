@@ -16,9 +16,9 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteTitle: '强风轨迹',
+  siteUrl: '/',
+  logo: 'https://store.xmgeek.top/d/Qiniu-GD/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E5%9B%BE%E7%89%87%E5%92%8C%E5%A3%81%E7%BA%B8/%E5%A4%B4%E5%83%8F%E5%92%8C%E8%A1%A8%E6%83%85/%E5%A4%B4%E5%83%8F%202.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
@@ -28,7 +28,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
+      url: 'https://me.xmgeek.top',
     },
     {
       name: 'About',

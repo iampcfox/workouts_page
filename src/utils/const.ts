@@ -3,7 +3,7 @@ const MAPBOX_TOKEN =
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  'pk.eyJ1IjoiYmVuLTI5IiwiYSI6ImNrZ3Q4Ym9mMDBqMGYyeXFvODV2dWl6YzQifQ.gSKoWF-fMjhzU67TuDezJQ';
+  'pk.eyJ1IjoiZnhwaXhlbHMiLCJhIjoiY21ldmsydjRoMDE1ZTJtczFhcmxuM3N0cSJ9.wplo-n-6wPBE8aU1a4TUig';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -11,6 +11,7 @@ const MUNICIPALITY_CITIES_ARR = [
   '重庆市',
   '香港特别行政区',
   '澳门特别行政区',
+  '广州市'
 ];
 const MAP_LAYER_LIST = [
   'road-label',
@@ -44,7 +45,7 @@ const ROAD_LABEL_DISPLAY = true;
 const PRIVACY_MODE = false;
 // updated on 2024/11/17: lights are turned off by default
 //set to `false` if you want to make light off as default, only effect when `PRIVACY_MODE` = false
-const LIGHTS_ON = false;
+const LIGHTS_ON = true;
 //set to `true` if you want to show the 'Elevation Gain' column
 const SHOW_ELEVATION_GAIN = true;
 // richer title for the activity types (like garmin style)
@@ -55,7 +56,7 @@ const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `户外运动 ${yearLength} 年 ` +
-  (year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
+  (year === 'Total' ? '地图展示的是所有的轨迹。' : `，地图展示的是 ${year} 年的轨迹。`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +
@@ -63,8 +64,8 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
 
 // English is not supported for location info messages yet
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '我去过了一些地方，希望随着时间推移，地图点亮的地方越来越多';
-const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探索的脚步';
+  '我去过了一些地方，希望随着时间推移，地图点亮的地方越来越多。';
+const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探索的脚步。';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon';

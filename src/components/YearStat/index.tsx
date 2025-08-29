@@ -63,6 +63,7 @@ const YearStat = ({
       streak = Math.max(streak, run.streak);
     }
   });
+  const sumElevationGainStr = sumElevationGain.toFixed(0);
   const hasHeartRate = !(heartRate === 0);
   const avgHeartRate = (heartRate / (runs.length - heartRateNullCount)).toFixed(
     0
@@ -100,7 +101,7 @@ const YearStat = ({
         ))}
         {SHOW_ELEVATION_GAIN && sumElevationGain > 0 && (
           <Stat
-            value={`${sumElevationGain.toFixed(0)} `}
+            value={`${sumElevationGainStr} `}
             description="M Elevation Gain"
             className="pb-2"
           />
