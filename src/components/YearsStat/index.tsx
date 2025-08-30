@@ -47,7 +47,7 @@ const YearsStat = ({
             “ 跑者们总是不断在思考、迷惘、犯错， 然后再重新来过。 ”
             <br />
             <br />
-            <div class="text-right">——「强风吹拂」</div>
+            <div class="text-right">—— 「强风吹拂」</div>
           </div>
         </p>
       </section>
