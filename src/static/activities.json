@@ -5824,6 +5824,22 @@
 "streak": 2
 },
 {
+"run_id": 9223370280215335807,
+"name": "Walk from keep",
+"distance": 419.4,
+"moving_time": "0:05:00",
+"type": "Hike",
+"start_date": "2025-08-31 11:19:00",
+"start_date_local": "2025-08-31 19:19:00",
+"location_country": "{'latitude': 23.192333, 'longitude': 113.334887, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': None, 'districtCode': None, 'startLatitude': 0.0, 'startLongitude': 0.0}",
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 1.398,
+"elevation_gain": 0.0,
+"source": "Keep",
+"streak": 3
+},
+{
 "run_id": 9223370280208407807,
 "name": "Walk from keep",
 "distance": 2730.0,
