@@ -7262,5 +7262,53 @@
 "elevation_gain": 10.959999999999997,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370278955059807,
+"name": "Walk from keep",
+"distance": 210.0,
+"moving_time": "0:02:58",
+"type": "Hike",
+"start_date": "2025-09-15 01:25:36",
+"start_date_local": "2025-09-15 09:25:36",
+"location_country": "{'latitude': 23.171172961337124, 'longitude': 113.34437846260906, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u5929\u6cb3\u533a', 'districtCode': '440106', 'startLatitude': 23.17198957428021, 'startLongitude': 113.34551085342403}",
+"summary_polyline": "wgmlCevwrT???@@?@?@?@?B@@?@?B?@?@@@?@@??@?@@@??@@@@B@B@@@B@BBB@@@@?@@@@@@@@@@@@@@@?@@@@@@B@@B@@@@@@@@@@@@@@?@@@@@@@@@@@@@@@@@@??@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B?@?B?B?@AB?@?@A@?BA@?@?BA@?@?@AB?@?@?@?@??@??@@???@@???@@????@????@@???@??@@?@?????@?@???@@?",
+"average_heartrate": 104.0,
+"average_speed": 1.1797752808988764,
+"elevation_gain": 0.0,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370278917890380,
+"name": "Walk from keep",
+"distance": 395.0,
+"moving_time": "0:07:19",
+"type": "Hike",
+"start_date": "2025-09-15 11:40:45",
+"start_date_local": "2025-09-15 19:40:45",
+"location_country": "{'latitude': 23.183895, 'longitude': 113.333358, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u767d\u4e91\u533a', 'districtCode': '440111', 'startLatitude': 23.184417, 'startLongitude': 113.334054}",
+"summary_polyline": "suolC}nurTCC?G??CCCAGAEAG?G?G?G?G?G?G?G?G@E?G@G?G?G?GAGAI?G?I?GBED?DAHAFCFAFAHAFAHAHAF?HAHAH?J?H@BBBDBBDDDD@F@FAFAF?FAF?F?F@F?H@F?H@F?F?H?F?D?F?F?FAF?FCF?D?DAFAD?D?D?D?FADAD?D?F@D@F?FB",
+"average_heartrate": 90.0,
+"average_speed": 0.8997722095671982,
+"elevation_gain": 0.3100000000000023,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370278916578014,
+"name": "Ride from keep",
+"distance": 4653.0,
+"moving_time": "0:21:42",
+"type": "Ride",
+"start_date": "2025-09-15 11:48:14",
+"start_date_local": "2025-09-15 19:48:14",
+"location_country": "{'latitude': 23.193013, 'longitude': 113.334323, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u767d\u4e91\u533a', 'districtCode': '440111', 'startLatitude': 23.18399, 'startLongitude': 113.333343}",
+"summary_polyline": "{rolCijurT@@N?F@JANANCNGNELCNENELGLELEHEJGJGJIHIHEFCHAJ@N?L?J?HAFEDI@MCOKSOQSQSQQQSSSSSQQSSSUQSQUQUO??UMWOUMUKUKWISIUGSISISIUGUIUGUKUIUKUGUISGUEQGOEKEKCKCKCKCKEIGIEMEOCQEOEQEOCMEOEMCMEKCGEEE?K@O@QBS@UBSBSBOBQBS?U?U@UDWDWDUDUBSDQBSDQ@QAMCMIIKIMGKCKAICGEKGIIKGK?KDKHIJIHGJGLEJGJGHGHGHGFEFEDCFAJCJALAJAJAHAHCHCHCFAFCFAFAHAHAH?J@H@J?H?FEDC@E?A??@BABIBI@K@M?K@K?K@IAGABAL?P?N?J?H?HAJCLELELCLEFGDG@KAICMCMCMCMEOCQASAQAS?Q?S?S@Q?S@Q@SBQ@S@Q@QBQ@ODQBQ@S@S@S@SBQ@SBOBQ@OBM@M@K@I@G@EBE@IBKBMBO@MBOBM@O@M@O?M?KAM?K@K?I?K?MAMAK?MAO?QAO?MAOAMAKAMAMCMCOEMEOEMGMEMEKEMCMEQGQGQEQGQEQGSGSGSISIQGOGMEKEIEGCE@@JBHHHHDFDHBHBJDLDHBJDJDNFNFPFPFPHPFRHRFRHRFPFRFPDPFRBRBPBRDPBP@P@P@P@N@NBL@N@L@N@L@L?N?LAJ?JAJAH?H?F@F@FDBDBF?J?L?L?L?J?LAJ?J?J?J@L?LAJ?H?B@C?ECECCG@EBEFEFCDADEDCBEBA@B?DEHIDKDIDIDEDBBF@NCLELGHEFEDEDEDEBCDEDEDGHIDGFGDEHIHGHGHIFIBKBK@OBO@O@O@OAOAQAQ?SASASAS?SASAS?OAKAK?KAO?M?OAO?Q?SASASASAQAQAQAQ?QAQ?QAQ@Q@S?QBQBOFQHSHQHUHSHSJUHSJSHUHSHSHUFWFUFUHQHMFADD@LEPGRGPELGLEJAJBJDF??AEICE@GJGNGPKRIRITKRIPIRIRIPIPINGJEJCH?H@HFFJDNDNDNDNBLDJHDLBL?L@N?L@L@J?J?L?N?P?P?P@N?N@P@N?N@P?P@NDNHPHNHPFPHPFPFPHNFPHNFNFNFNFPFNDJ@FCDKDODQDOBIBI@I",
+"average_heartrate": 79.0,
+"average_speed": 3.5737327188940093,
+"elevation_gain": 25.38,
+"source": "Keep",
+"streak": 3
 }
 ]
