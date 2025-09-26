@@ -7614,5 +7614,53 @@
 "elevation_gain": 25.40999999999999,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370278045992966,
+"name": "Run from keep",
+"distance": 180.0,
+"moving_time": "0:01:39",
+"type": "Run",
+"start_date": "2025-09-25 13:58:03",
+"start_date_local": "2025-09-25 21:58:03",
+"location_country": "{'latitude': 23.193824, 'longitude': 113.334123, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u767d\u4e91\u533a', 'districtCode': '440111', 'startLatitude': 23.192874, 'startLongitude': 113.334403}",
+"summary_polyline": "kjqlCqpurT?LB?BDB@BD@BCFCFAHCFEHGHEJGHGFIB??MCKEMGGEIEGEICICICICKCGCGACAEACE",
+"average_heartrate": 103.0,
+"average_speed": 1.8181818181818181,
+"elevation_gain": 1.4500000000000028,
+"source": "Keep",
+"streak": 1
+},
+{
+"run_id": 9223370278043681339,
+"name": "Run from keep",
+"distance": 3811.0,
+"moving_time": "0:30:52",
+"type": "Run",
+"start_date": "2025-09-25 14:07:21",
+"start_date_local": "2025-09-25 22:07:21",
+"location_country": "{'latitude': 23.185087, 'longitude': 113.33227, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u767d\u4e91\u533a', 'districtCode': '440111', 'startLatitude': 23.185072, 'startLongitude': 113.332274}",
+"summary_polyline": null,
+"average_heartrate": 163.0,
+"average_speed": 2.0577753779697625,
+"elevation_gain": 0.10000000000000142,
+"source": "Keep",
+"streak": 1
+},
+{
+"run_id": 9223370278043081457,
+"name": "Run from keep",
+"distance": 516.0,
+"moving_time": "0:06:24",
+"type": "Run",
+"start_date": "2025-09-25 14:41:48",
+"start_date_local": "2025-09-25 22:41:48",
+"location_country": "{'latitude': 23.185625, 'longitude': 113.331809, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': '\u767d\u4e91\u533a', 'districtCode': '440111', 'startLatitude': 23.185586, 'startLongitude': 113.33289}",
+"summary_polyline": "{|olCegurTAH@H?H??AH?H?H@F?H?H?H?F?H?H?H?H?H?H?HAF?FCBAFCDEHCFCDEDEBEBC@G@C@G?G?I?GAGAECECCCCECCCECGAGCI?I?I?G@I?G?I?I?I?I?I?G?G?EAG?E?G?I?G@K?G?G@G@G@IDGBGFEDEDCFCFAFAF?F?H@HBFDFDFFDFBH@H@H@J?H?H?J?H?H?JAH?H?H?H?J?H?H?H?H?HAH",
+"average_heartrate": 119.0,
+"average_speed": 1.34375,
+"elevation_gain": 4.390000000000008,
+"source": "Keep",
+"streak": 1
 }
 ]
