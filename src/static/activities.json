@@ -7902,5 +7902,37 @@
 "elevation_gain": 5.450000000000017,
 "source": "Keep",
 "streak": 1
+},
+{
+"run_id": 9223370277539817807,
+"name": "Walk from keep",
+"distance": 410.0,
+"moving_time": "0:05:13",
+"type": "Hike",
+"start_date": "2025-10-01 10:30:43",
+"start_date_local": "2025-10-01 18:30:43",
+"location_country": "{'latitude': 23.192301, 'longitude': 113.335155, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u5e7f\u5dde\u5e02', 'cityCode': '020', 'district': None, 'districtCode': None, 'startLatitude': 0.0, 'startLongitude': 0.0}",
+"summary_polyline": null,
+"average_heartrate": 101.0,
+"average_speed": 1.3099041533546325,
+"elevation_gain": 0.0,
+"source": "Keep",
+"streak": 2
+},
+{
+"run_id": 9223370277529563191,
+"name": "Walk from keep",
+"distance": 2480.0,
+"moving_time": "0:39:53",
+"type": "Hike",
+"start_date": "2025-10-01 12:46:58",
+"start_date_local": "2025-10-01 20:46:58",
+"location_country": "{'latitude': 23.602126, 'longitude': 112.435251, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u8087\u5e86\u5e02', 'cityCode': '0758', 'district': '\u5e7f\u5b81\u53bf', 'districtCode': '441223', 'startLatitude': 23.602022, 'startLongitude': 112.434561}",
+"summary_polyline": "{faoCkyemT@F@B?FEDEBCBABB@F?FCDEDGBGBEBEBGBG?G@G@I?I@IBGBI@GBC@ABADEBGDG@G@GAECEECECEEGCGAI@EDCFCDCFAHAFAFADE@G@KFKHGHAFCFAFCBCDCBAD@FBHJJFHFH??D@D?FAHCHAFCDABCBEBG?E@G?I?G?I?G@GBGDGDGDEDEBGBG@G?GCGEEGCECGCGCGAG@CBEFCDAH?F@F@FAFAFE@E?EAE@CBCDADADADAFCFCDCDCFEDEDCB?HFDHDHBFDH@PAPEJG@G@IBG@GAGAEAGAG@EBIBG@GBEBEBGBE@GDEBIBGAGAGCCGCEAGACBCDCDCBCDCFCFAHAFAD?FADADE@GAG?E?GDEHEFADAFADCDCFCJCFCHCF@JFBJ@VCR?TADCDGBEBGBG@G@G@G?G@G?GBGBEDEBCBEDCBCDE@G@EAICECGECGCGAIAIAI@C@EDCDCFAFAF@F@F?DCBGBGBGBGDEFCFADAFCFCFCDCFCF?HBHFDFBD?F@H?F?FADCDADCBEDEDEDCBE@E@G@GAG?I?I@GBEDEBCDCDCBC@G@G?ICGEEEECCECEAE?EAEAGAE@EBCDEFAF?D@D?DAFCDEDCDEFCFAFCHCHCHCFEHEHAF?FBBDDHBH@HBD?F?FCFCDEDCDEBE@GBG@I@I?G?I?I?E@G@GDGBEDEBEDGBEBE?GCEEEGCIAE?I?I?GAE@EBEDCLCLALCDCDEDCFCHCFEHCFAFCFADCFAFAD?F@DBDFDH@H@H@HAHCFEDCDGBEBG@GBEBEBI@G?G?G@I@GBEBEDCBEDGBG@G?GAEEEGEICGAICE?GBCBCDCBEDEDCDCFADADCFCDE@EDCDAF?HAF?F?HCF?DB@B?@D@HAFAF@FBDH@LBLAJCBCBE@G@GBG@GBEBE@E@G?GAG@I?I@G?EBGBGBEBGBG?GCEEEEEEEICI?GBEFGDIDGBG@G@E?E@?LBNFL@@A@CDCFCFAFAF?HAH?FAF@FBDBDFBDBF@FCDCDE@EBG?ECGEICGCICKGIEAECECECGEECGAC?C@CBG@G@G?G?CE?GDGHGHAFAF?HATGDEBC",
+"average_heartrate": 93.0,
+"average_speed": 1.036356038445466,
+"elevation_gain": 90.99000000000005,
+"source": "Keep",
+"streak": 2
 }
 ]
