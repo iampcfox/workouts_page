@@ -7934,5 +7934,21 @@
 "elevation_gain": 90.99000000000005,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370277443850467,
+"name": "Walk from keep",
+"distance": 1233.0,
+"moving_time": "0:36:51",
+"type": "Hike",
+"start_date": "2025-10-02 12:38:33",
+"start_date_local": "2025-10-02 20:38:33",
+"location_country": "{'latitude': 23.602449275503076, 'longitude': 112.43507564575427, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u8087\u5e86\u5e02', 'cityCode': '0758', 'district': '\u5e7f\u5b81\u53bf', 'districtCode': '441223', 'startLatitude': 23.602612942175696, 'startLongitude': 112.43488097909528}",
+"summary_polyline": "{jaoCm{emTBBABCBG@G?E@E@ABAF?DAFAHADEBC?GAEAEAECECGAGCGAIAGAGCGAGCGAGAG?I?EAGA???AA?G?GACCEAEAEBG@G@G@G?G?GAGAG@G@E@E@G@G?I?G?G?EAG?G?G?GAGAGAE@EBGBAFAFAHADEDE@GBEBEDE@EBCBCDAF?D@D?D??IHLK??RKBDADAFCFAF?DAF?DADAF?F?F?F?F?FADADAF?D@F@F@FADADAFBBN?EHGDGCBA@ACD?G?O@E?G@A?B?DAFADA@?A@E@E@G?E@G?I?G?E?G?G@E@E@E?E?G?EAG?G?G?G@E?GAECE?IIHJE?@A@@?@?A??B@?A?G?E?A?BCJCJCDC?AE?C@GBDCDCBCFCDCDADADABABEBEBCDEBEFCD?F?D@F@D?DADEDIDEFAF?H@F?FAF@HBF?DADED?DAD?F?D?F@F@F@D@DBDBB@H?H?F?F@D?F@BBF@D@B@BDBBDBD@DBBBD@DDDBFDF@D@F?F?FADCBEBE@E@G@E?G@G@G@E?G@E?E?GAGAG@G@E@CDCD?DADC",
+"average_heartrate": null,
+"average_speed": 0.5576662143826323,
+"elevation_gain": 8.13000000000001,
+"source": "Keep",
+"streak": 3
 }
 ]
